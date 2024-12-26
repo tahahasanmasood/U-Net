@@ -1,0 +1,69 @@
+std=20
+
+Average PSNR (Noisy vs Clean): 22.52
+Average SSIM (Noisy vs Clean): 0.4066
+Average PSNR (Denoised vs Clean): 32.41
+Average SSIM (Denoised vs Clean): 0.8923
+
+std=40
+
+Average PSNR (Noisy vs Clean): 16.94
+Average SSIM (Noisy vs Clean): 0.2013
+Average PSNR (Denoised vs Clean): 29.73
+Average SSIM (Denoised vs Clean): 0.8200
+
+std=60
+
+Average PSNR (Noisy vs Clean): 13.87
+Average SSIM (Noisy vs Clean): 0.1222
+Average PSNR (Denoised vs Clean): 27.85
+Average SSIM (Denoised vs Clean): 0.7528
+
+std=80
+
+Average PSNR (Noisy vs Clean): 11.87
+Average SSIM (Noisy vs Clean): 0.0832
+Average PSNR (Denoised vs Clean): 26.36
+Average SSIM (Denoised vs Clean): 0.6930
+
+std=100
+
+Average PSNR (Noisy vs Clean): 10.48
+Average SSIM (Noisy vs Clean): 0.0614
+Average PSNR (Denoised vs Clean): 25.17
+Average SSIM (Denoised vs Clean): 0.6421
+
+std=120
+
+Average PSNR (Noisy vs Clean): 9.49
+Average SSIM (Noisy vs Clean): 0.0479
+Average PSNR (Denoised vs Clean): 24.21
+Average SSIM (Denoised vs Clean): 0.5983
+
+std=140
+
+Average PSNR (Noisy vs Clean): 8.76
+Average SSIM (Noisy vs Clean): 0.0391
+Average PSNR (Denoised vs Clean): 23.43
+Average SSIM (Denoised vs Clean): 0.5601
+
+std=160
+
+Average PSNR (Noisy vs Clean): 8.21
+Average SSIM (Noisy vs Clean): 0.0330
+Average PSNR (Denoised vs Clean): 22.78
+Average SSIM (Denoised vs Clean): 0.5264
+
+std=180
+
+Average PSNR (Noisy vs Clean): 7.78
+Average SSIM (Noisy vs Clean): 0.0285
+Average PSNR (Denoised vs Clean): 22.17
+Average SSIM (Denoised vs Clean): 0.4956
+
+std=200
+
+Average PSNR (Noisy vs Clean): 7.44
+Average SSIM (Noisy vs Clean): 0.0251
+Average PSNR (Denoised vs Clean): 21.53
+Average SSIM (Denoised vs Clean): 0.4650
